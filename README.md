@@ -1,7 +1,12 @@
 # PdMDemo
-Sebuah demo untuk pengembangan Predictive Maintenance
+Repo ini dibuat untuk belajar machine learning. Berfokus pada implementasi machine learning untuk prediksi kerusakan sebuah mesin. Mengapa saya memilih fokus pada case ini? Karena saat ini saya bekerja sebagai maintenance engineer yang sedang membangun Predictive Maintenance. Walau di lapangan belum berjalan dengan baik, saya persiapkan machine learning untuk bahan next level predictive maintenance.
+Fokus belajar saya masih dengan Python, mungkin lain kali boleh untuk belajr juga R.
+Script di repo ini saya ketik ulang dari referensi dibawah sekaligus jika ada error atau bug saya akan coba untuk memperbaikinya.
 
-Dari guidance yang sudah ada, coba clone untuk disesuaikan dengan kebutuhan lapangan dan untuk mendapatkan kebutuhan dataset yang dibutuhkan, sehingga dataset dari Portal Engineer dapat ditransform ke dataset yang dibutuhkan.
+Practice make perfect
+Sharing is the best way of learning
 
 Demo ini diambil dari referensi berikut:
-- https://gallery.azure.ai/Notebook/Predictive-Maintenance-Modelling-Guide-Python-Notebook-1
+- https://gallery.azure.ai/Notebook/Predictive-Maintenance-Modelling-Guide-Python-Notebook-1 (on the way)
+- https://github.com/Azure/PySpark-Predictive-Maintenance (next)
+- dan akan terus bertambah
